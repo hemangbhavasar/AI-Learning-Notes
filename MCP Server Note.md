@@ -1,3 +1,20 @@
+---
+title: >-
+  Model Context Protocol (MCP) Explained for Beginners: AI Flight Booking Demo!
+  - YouTube
+description: >-
+  🆓Access to MCP Lab: https://kode.wiki/3IxxdBGCurious about how AI agents
+  function and their impact on technology? 🤖✨ In this video, we explore AI
+  agents an...
+author: YouTube
+source: https://www.youtube.com/watch?v=E2DEHOEbzks&ab_channel=KodeKloud
+created: "2025-08-19"
+tags:
+  - web-notes
+  - hover-notes
+  - webpage
+---
+
 ### Introduction to AI Agents and Model Context Protocol (MCP)
 - Goal: To explain these concepts using visualizations for easy understanding.
 - No prior AI, coding, or programming knowledge needed.
